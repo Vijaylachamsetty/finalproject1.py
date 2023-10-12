@@ -19,10 +19,10 @@ class UserOperations:
             else:
                 print("Invalid choice. Please select a valid option.")
     def load_food_items(self):
-            with open(r'C:\Users\Venkat\Desktop\__20__final_project.py\FoodItems.json', 'r') as file:
+            with open(r'C:\Users\anjaneyalu\Desktop\vs code py\finalproject.py\fooditems.json', 'r') as file:
                 self.data= json.load(file)
     def write_food_items(self,data):
-        with open(r'C:\Users\Venkat\Desktop\__20__final_project.py\orderHistory.json','w') as addfile:
+        with open(r'C:\Users\anjaneyalu\Desktop\vs code py\finalproject.py\history.json','w') as addfile:
             json.dump(data,addfile,indent=4)
     def placeOrder(self):
        
@@ -62,7 +62,7 @@ class UserOperations:
             print(f"Total Cost: INR {total_cost}")
             print(f'Discount :{discount}')
             odata={'name':self.name,'history':self.selected_items}
-            with open(r'C:\Users\Venkat\Desktop\__20__final_project.py\orderHistory.json','r') as file:
+            with open(r'C:\Users\anjaneyalu\Desktop\vs code py\finalproject.py\history.json','r') as file:
                 ndata=json.load(file)
             
             ndata.append(odata)
@@ -77,7 +77,7 @@ class UserOperations:
     def orderHistory(self):
         print("Viewing order history\n")
         order_history=[]
-        with open(r'C:\Users\Venkat\Desktop\__20__final_project.py\orderHistory.json','r') as file:
+        with open(r'C:\Users\anjaneyalu\Desktop\vs code py\finalproject.py\history.json','r') as file:
             data=json.load(file)
             
         for obj in data:
@@ -94,7 +94,7 @@ class UserOperations:
 
     def updateProfile(self):
         print("Updating user profile")
-        with open(r'C:\Users\Venkat\Desktop\__20__final_project.py\details.json', 'r') as file:
+        with open(r'C:\Users\anjaneyalu\Desktop\vs code py\finalproject.py\details.json', 'r') as file:
                 credentials = json.load(file)
                 
         for credit in credentials:
@@ -105,7 +105,7 @@ class UserOperations:
                 credit['address']=(input("Enter address :"))
                 credit['password']=(input("Enter password :"))
                 
-                with open(r'C:\Users\Venkat\Desktop\__20__final_project.py\details.json','w') as w:
+                with open(r'C:\Users\anjaneyalu\Desktop\vs code py\finalproject.py\details.json','w') as w:
                     json.dump(credentials,w,indent=4)
                 break
         else:
