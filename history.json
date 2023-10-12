@@ -1,0 +1,123 @@
+[
+    {
+        "name": "rasi",
+        "history": [
+            {
+                "name": "fry biryani",
+                "foodid": 2,
+                "quantity": 1,
+                "price": 320.0,
+                "discount": 4.0,
+                "stock": 12
+            },
+            {
+                "name": "oreo shake",
+                "foodid": 3,
+                "quantity": 200,
+                "price": 150,
+                "discount": 5.0,
+                "stock": 20
+            }
+        ]
+    },
+    {
+        "name": "rasi",
+        "history": [
+            {
+                "name": "fry biryani",
+                "foodid": 2,
+                "quantity": 1,
+                "price": 320.0,
+                "discount": 4.0,
+                "stock":12
+            },
+            {
+                "name": "oreo shake",
+                "foodid": 3,
+                "quantity": 200,
+                "price": 150.0,
+                "discount": 5.0,
+                "stock": 20
+            }
+        ]
+    },
+    {
+        "name": "vijay",
+        "history": [
+            {
+                "name": "fry biryani",
+                "foodid": 2,
+                "quantity": 1,
+                "price": 320.0,
+                "discount": 4.0,
+                "stock": 12
+            },
+            {
+                "name": "oreo shake",
+                "foodid": 3,
+                "quantity": 200,
+                "price": 150.0,
+                "discount": 5.0,
+                "stock": 20
+            }
+        ]
+    },
+    {
+        "name": "aditya",
+        "history": [
+            {
+                "name": "fry biryani",
+                "foodid": 2,
+                "quantity": 1,
+                "price": 320.0,
+                "discount": 4.0,
+                "stock": 12
+            },
+            {
+                "name": "oreo shake",
+                "foodid": 3,
+                "quantity": 200,
+                "price": 150.0,
+                "discount": 5.0,
+                "stock": 20
+            }
+        ]
+    },
+    {
+        "name": "aditya",
+        "history": [
+            {
+                "name": "fry biryani",
+                "foodid": 2,
+                "quantity": 1,
+                "price": 320.0,
+                "discount": 4.0,
+                "stock": 12
+            },
+            {
+                "name": "oreo shake",
+                "foodid": 3,
+                "quantity": 500,
+                "price": 900.0,
+                "discount": 5.0,
+                "stock": 20
+            },
+            {
+                "name": "fry biryani",
+                "foodid": 2,
+                "quantity": 1,
+                "price": 320.0,
+                "discount": 4,
+                "stock": 12
+            },
+            {
+                "name": "wings biryani",
+                "foodid": 576,
+                "quantity": "500g",
+                "price": 280,
+                "discount": 10.0,
+                "stock": 50
+            }
+        ]
+    }
+]

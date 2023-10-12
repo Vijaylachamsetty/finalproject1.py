@@ -1,0 +1,26 @@
+[
+    {
+        "name": "fry biryani",
+        "foodid": 2,
+        "quantity": 1,
+        "price": 320.0,
+        "discount": 4.0,
+        "stock": 12
+    },
+    {
+        "name": "oreo shake",
+        "foodid": 3,
+        "quantity": 150,
+        "price": 150.0,
+        "discount": 5.0,
+        "stock": 20
+    },
+    {
+        "name": "wings briyani",
+        "foodid": 576,
+        "quantity": "500g",
+        "price": 280.0,
+        "discount": 10.0,
+        "stock": 50
+    }
+]

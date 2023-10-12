@@ -1,0 +1,86 @@
+[
+    {
+        "name": "rasi",
+        "phoneNumber": "1234567890",
+        "email": "rasi@example.com",
+        "address": "naguluppalapadu",
+        "password": "paey6yy8"
+    },
+    {
+        "name": "Babi",
+        "phoneNumber": "9876544321",
+        "email": "babi@example.com",
+        "address": "456 Elm St",
+        "password": "qweyyy788"
+    },
+    {
+        "name": "vijay",
+        "phoneNumber": "9346244706",
+        "email": "ravan@example.com",
+        "address": "789 Oak St",
+        "password": "bhj123456"
+    },
+    {
+        "name": "joseph",
+        "phoneNumber": "8888888888",
+        "email": "joseph@example.com",
+        "address": "101 Pine Ave",
+        "password": "forgotne3"
+    },
+    {
+        "name": "tim",
+        "phoneNumber": "1111111111",
+        "email": "tim@example.com",
+        "address": "222 Cedar Rd",
+        "password": "admin765@"
+    },
+    {
+        "name": "varaprasad",
+        "phoneNumber": "9999999999",
+        "email": "varaprasad@example.com",
+        "address": "123 Main St",
+        "password": "welcome@654"
+    },
+    {
+        "name": "aditya",
+        "phoneNumber": "5555555555",
+        "email": "aditya@example.com",
+        "address": "456 Elm St",
+        "password": "password123"
+    },
+    {
+        "name": "lakshmi",
+        "phoneNumber": "8888888888",
+        "email": "lakshmi@example.com",
+        "address": "789 Oak St",
+        "password": "qwerty"
+    },
+    {
+        "name": "siva",
+        "phoneNumber": "1234567890",
+        "email": "siva@example.com",
+        "address": "101 Pine Ave",
+        "password": "123456"
+    },
+    {
+        "name": "Julia",
+        "phoneNumber": "9876543210",
+        "email": "julia@example.com",
+        "address": "222 Cedar Rd",
+        "password": "letmein"
+    },
+    {
+        "name": "sai",
+        "phoneNumber": 9346282356,
+        "email": "sai@python.com",
+        "address": "1762 tnhb",
+        "password": "1234"
+    },
+    {
+        "name": "venkat",
+        "phoneNumber": "1999",
+        "email": "[gfhhjjj",
+        "address": "gsde'rhjbg",
+        "password": "2977"
+    }
+]
